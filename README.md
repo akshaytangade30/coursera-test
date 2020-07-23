@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/akshaytangade30/coursera-t
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-hello my name is Akshay Tangade. I live in pune city in India.I am a software Engineer from Pune University.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
